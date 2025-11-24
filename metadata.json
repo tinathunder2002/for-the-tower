@@ -1,0 +1,5 @@
+{
+  "name": "OpusAI - Video Repurposing",
+  "description": "AI-powered video analysis tool that automatically identifies, clips, and indexes viral moments from long-form videos using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
